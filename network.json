@@ -15,10 +15,10 @@
     "timestamp": "0x0",
     "gasLimit": "0x47b760",
     "difficulty": "0x1",
-    "mixHash": "0x50959c8669fd9f66113c19e801220a5f204527d4bbab4c69caf15ddc9a4a8627",
+    "mixHash": "",
     "coinbase": "0x0000000000000000000000000000000000000000",
     "alloc": {
-       "0x1FAE9C6f9adFCb9297764ee4368625dc9b745C96": {
+       "": {
           "balance": "700000000000000000000000000"
        }
       }
